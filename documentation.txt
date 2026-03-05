@@ -1,0 +1,36 @@
+HomeDecorAIProject
+
+  Assets
+│    Scenes
+│   │     MainScene.unity
+│   │
+│   ├── Scripts
+│   │     FurniturePlacer.cs
+│   │     WallColorChanger.cs
+│   │     AISuggestionManager.cs
+│   │     UIManager.cs
+│   │
+│   ├── Prefabs
+│   │     Sofa.prefab
+│   │     Table.prefab
+│   │     Chair.prefab
+│   │     Lamp.prefab
+│   │
+│   ├── Materials
+│   │     WallWhite.mat
+│   │     WallBlue.mat
+│   │     WallGreen.mat
+│   │
+│   ├── Models
+│   │     Sofa.fbx
+│   │     Table.fbx
+│   │     Chair.fbx
+│   │
+│   ├── UI
+│   │     Canvas
+│   │     Buttons
+│   │
+│   └── Plugins
+│         OpenAIAPI.cs
+│
+└── README.md
